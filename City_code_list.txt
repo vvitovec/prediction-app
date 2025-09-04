@@ -1,0 +1,300 @@
+  Aš: 5
+  BGS: 6
+  Banskobystrický kraj: 7
+  Banská Bystrica: 8
+  Bavorsko: 9
+  Bechyně: 10
+  Benešov: 11
+  Benátky nad Jizerou: 12
+  Bernolákovo: 13
+  Beroun: 14
+  Bezdružice: 15
+  Blansko: 16
+  Bochoř: 17
+  Borohrádek: 18
+  Boskovice: 19
+  Brandýs nad Labem: 20
+  Braniborsko: 21
+  Bratislava: 22
+  Bratislavský kraj: 23
+  Brno: 24
+  Bruntál: 25
+  Buchlovice: 26
+  Bučovice: 27
+  Buštěhrad: 28
+  Bystřice: 29
+  Bádensko: 30
+  Běrunice: 31
+  Břeclav: 32
+  Břežany II: 33
+  Choltice: 34
+  Chomutov: 35
+  Chorvátsky Grob: 36
+  Chotěšov: 37
+  Chrustenice: 38
+  Chuchelná: 39
+  Chýně: 40
+  Doksy: 41
+  Dolní Břežany: 42
+  Dolní Lánov: 43
+  Dolní Sasko: 44
+  Dolní Věstonice: 45
+  Drahelčice: 46
+  Dubňany: 47
+  Duchcov: 48
+  Durynsko: 49
+  Děčín: 50
+  Floridsdorf 21. Bezirk Wien 1210: 51
+  Frýdek: 52
+  Frýdlant: 53
+  Fulnek: 54
+  Gabčíkovo: 55
+  Golčův Jeníkov: 56
+  Handlová: 57
+  Havlíčkův Brod: 58
+  Havířov: 59
+  Hessen: 60
+  Heřmanův Městec: 61
+  Hodonín: 62
+  Horažďovice: 63
+  Horní Dvořiště: 64
+  Horšovský Týn: 65
+  Hostivice: 66
+  Hovorčovice: 67
+  Hořice: 68
+  Hradec Králové: 69
+  Hranice: 70
+  Jablonec nad Nisou: 71
+  Janské Lázně: 72
+  Jaroměřice nad Rokytnou: 73
+  Jeseník: 74
+  Jihlava: 75
+  Jihomoravský kraj: 76
+  Jihočeský kraj: 77
+  Jindřichův Hradec: 78
+  Jičín: 79
+  Jílové u Prahy: 80
+  Kaplice: 81
+  Karlova Ves: 82
+  Karlovarský kraj: 83
+  Karlovy Vary: 84
+  Karviná: 85
+  Kladno: 86
+  Klatovy: 87
+  Klášterec nad Ohří: 88
+  Kněževes: 89
+  Kojetín: 90
+  Koloveč: 91
+  Kolín: 92
+  Konice: 93
+  Kopřivnice: 94
+  Kostelec nad Labem: 95
+  Kouřim: 96
+  Košice: 97
+  Kraj Vysočina: 98
+  Krnov: 99
+  Kryry: 100
+  Královéhradecký kraj: 101
+  Králíky: 102
+  Králův Dvůr: 103
+  Krásná Lípa: 104
+  Kunice: 105
+  Kutná Hora: 106
+  Lanškroun: 107
+  Lednice: 108
+  Liberec: 109
+  Liberecký kraj: 110
+  Libiš: 111
+  Libušín: 112
+  Lipník nad Bečvou: 113
+  Liptovský Mikuláš: 114
+  Litomyšl: 115
+  Litoměřice: 116
+  Loket: 117
+  Louny: 118
+  Louňovice: 119
+  Lubenec: 120
+  Lučenec: 121
+  Lužná: 122
+  Lysá nad Labem: 123
+  Lštění: 124
+  Malý Slavkov: 125
+  Mariánské Lázně: 126
+  Mecklenburg: 127
+  Meziboří: 128
+  Mikulov: 129
+  Mikulovice: 130
+  Milhostov: 131
+  Milovice: 132
+  Mirošovice: 133
+  Mladá Boleslav: 134
+  Mladá Vožice: 135
+  Mnichovo Hradiště: 136
+  Mníšek: 137
+  Moravany: 138
+  Moravskoslezský kraj: 139
+  Moravský Beroun: 140
+  Most: 141
+  Mratín: 142
+  Nelahozeves: 143
+  Neratovice: 144
+  Nespeky: 145
+  Nitra: 146
+  Nitriansky kraj: 147
+  Nosislav: 148
+  Nová Role: 149
+  Nová Ves: 150
+  Nové Mesto: 151
+  Nové Město na Moravě: 152
+  Nové Město nad Metují: 153
+  Nové Strašecí: 154
+  Nový Jičín: 155
+  Nupaky: 156
+  Nučice: 157
+  Odolena Voda: 158
+  Ohrobec: 159
+  Olomouc: 160
+  Olomoucký kraj: 161
+  Ondřejov: 162
+  Opava: 163
+  Oslavany: 164
+  Ostrava: 165
+  Pardubice: 166
+  Pardubický kraj: 167
+  Petržalka: 168
+  Pezinok: 169
+  Pečky: 170
+  Plzeň: 171
+  Plzeňský kraj: 172
+  Podunajské Biskupice: 173
+  Poděbrady: 174
+  Popovičky: 175
+  Poprad: 176
+  Porýní: 177
+  Postřižín: 178
+  Pouzdřany: 179
+  Povrly: 180
+  Pozořice: 181
+  Prace: 182
+  Prachatice: 183
+  Praha: 184
+  Prešovský kraj: 185
+  Prostějov: 186
+  Protivín: 187
+  Psáry: 188
+  Písek: 189
+  Přerov: 190
+  Přezletice: 191
+  Příbram: 192
+  Radonice: 193
+  Rajhrad: 194
+  Rapotín: 195
+  Rača: 196
+  Rokytnice v Orlických horách: 197
+  Rosice: 198
+  Rotava: 199
+  Rovinka: 200
+  Roztoky: 201
+  Rumburk: 202
+  Ružinov: 203
+  Rychnov u Jablonce nad Nisou: 204
+  Sasko: 205
+  Senica: 206
+  Severní Porýní: 207
+  Slavičín: 208
+  Slunečná: 209
+  Smečno: 210
+  Smižany: 211
+  Sony Center Berlin Tiergarten Berlin 10785: 212
+  Spišská Nová Ves: 213
+  Srch: 214
+  Staré Hodějovice: 215
+  Strakonice: 216
+  Stupava: 217
+  Středočeský kraj: 218
+  Suchdol nad Lužnicí: 219
+  Svatobořice: 220
+  Svinaře: 221
+  Svitavy: 222
+  Svitávka: 223
+  Svojetice: 224
+  Světlá nad Sázavou: 225
+  Sázava: 226
+  Tachov: 227
+  Telč: 228
+  Trenčín: 229
+  Trnavský kraj: 230
+  Troubsko: 231
+  Trutnov: 232
+  Tursko: 233
+  Tábor: 234
+  Týn nad Vltavou: 235
+  Týnec nad Labem: 236
+  Týniště nad Orlicí: 237
+  Těrlicko: 238
+  Třebechovice pod Orebem: 239
+  Třebívlice: 240
+  Třebíč: 241
+  Uherské Hradiště: 242
+  Uhlířské Janovice: 243
+  Unknown: 244
+  Vacenovice: 245
+  Valtice: 246
+  Veleň: 247
+  Velké Bílovice: 248
+  Velké Meziříčí: 249
+  Velké Opatovice: 250
+  Velké Popovice: 251
+  Velké Přílepy: 252
+  Veľká Lomnica: 253
+  Vlašim: 254
+  Vlkava: 255
+  Vodňany: 256
+  Vrakuňa: 257
+  Vranovice: 258
+  Vrané nad Vltavou: 259
+  Vrbno pod Pradědem: 260
+  Vrchlabí: 261
+  Vrdy: 262
+  Vsetín: 263
+  Vysoký Újezd: 264
+  Vřesina: 265
+  Zbůch: 266
+  Zdiby: 267
+  Zdice: 268
+  Země Sársko: 269
+  Zlín: 270
+  Zlínský kraj: 271
+  Znojmo: 272
+  Zruč nad Sázavou: 273
+  Zvole: 274
+  Zvolen: 275
+  Záhorská Bystrica: 276
+  Zálesie: 277
+  Ústecký kraj: 278
+  Ústí nad Labem: 279
+  Úvaly: 280
+  Úštěk: 281
+  Čelákovice: 282
+  Česká Lípa: 283
+  Česká Třebová: 284
+  Česká Ves: 285
+  České Budějovice: 286
+  České Meziříčí: 287
+  Český Brod: 288
+  Čáslav: 289
+  Řevnice: 290
+  Říčany: 291
+  Šanov: 292
+  Šaštín: 293
+  Škvorec: 294
+  Šlesvicko: 295
+  Šternberk: 296
+  Štěpánov: 297
+  Šúrovce: 298
+  Žabčice: 299
+  Žamberk: 300
+  Židlochovice: 301
+  Žilina: 302
+  Žilinský kraj: 303
+  Žďár nad Sázavou: 304
