@@ -1,6 +1,10 @@
 import streamlit as st
 import joblib
 import numpy as np
+import requests
+
+from io import BytesIO
+from PIL import Image
 
 def dispozice_to_features(dispozice_str):
 
@@ -152,6 +156,16 @@ def load_model():
 
     return joblib.load('xgboost_real_estate_model.pkl')
 
+
+@st.cache_data(show_spinner=False)
+def load_header_image(url: str) -> Image.Image:
+
+    response = requests.get(url, timeout=10)
+    response.raise_for_status()
+    image = Image.open(BytesIO(response.content)).convert("RGB")
+    image.load()
+    return image
+
 def predict_price(model, features_dict):
 
     feature_array = [features_dict.get(feature, 0) for feature in FEATURES_ORDER]
@@ -164,6 +178,14 @@ def predict_price(model, features_dict):
 
 def run_app():
     st.set_page_config(page_title="Predikce ceny nemovitosti", layout="centered")
+
+    house_image_url = "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1600&q=80"
+    try:
+        house_image = load_header_image(house_image_url)
+        st.image(house_image, use_column_width=True, caption="Inspirativní rodinný dům")
+    except requests.RequestException:
+        st.warning("Nepodařilo se načíst ilustrační obrázek domu.")
+
     st.title("🏠 Predikce ceny nemovitosti")
     st.write("Webovou aplikaci a Model odhadu cen nemovitostí s vlastními daty vytvořil Viktor Vítovec 2025")
     st.subheader("Vyplňte parametry nemovitosti pro odhad ceny.")
